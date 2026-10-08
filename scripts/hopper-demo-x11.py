@@ -22,6 +22,7 @@ import time
 SUPPORTED_HOPPER_SHA256 = {
     "0294ced141cc373468ee22d8343e7dac41980cb05a937994ca81c9f09afe7ded"
 }
+# TODO: ensure to parse all those variables!
 EXPECTED_SCREEN = (1280, 1024)
 EXPECTED_DIALOG = (189, 370, 901, 284)
 DEMO_CLICK = (305, 632)
